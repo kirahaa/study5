@@ -1,0 +1,13 @@
+<template>
+  <header>
+    Main header
+  </header>
+</template>
+
+<script>
+
+
+export default {
+    name: 'Header'
+}
+</script>
